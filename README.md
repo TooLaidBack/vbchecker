@@ -8,7 +8,7 @@
 This is a simple python script that utilizes the CVE-2016-6195 vulnerability, the only difference is it has the functionality to choose a custom Table and or Column Name.
 
 ```
-usage: vbshit.py [-h] --url URL --dump {1,2,3} [--table TABLE] [--column COLUMN]
+usage: vbchecker.py [-h] --url URL --dump {1,2,3} [--table TABLE] [--column COLUMN]
 
 CVE-2016-6195 exploit
 
