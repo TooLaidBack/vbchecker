@@ -5,7 +5,7 @@
 **Disclaimer:** I take no responsibility for whatever you decide to do with this code, there are still many websites running vulnerable vbulletin versions and I recommend them to always stay with the latest update. Use at your own discretion.
 
 # Vbchecker
-This is a simple python script that utilizes the CVE-2016-6195 vulnerability, the only difference is it has the functionality to chose a custom Table and or Colum Name.
+This is a simple python script that utilizes the CVE-2016-6195 vulnerability, the only difference is it has the functionality to choose a custom Table and or Column Name.
 
 ```
 usage: vbshit.py [-h] --url URL --dump {1,2,3} [--table TABLE] [--column COLUMN]
